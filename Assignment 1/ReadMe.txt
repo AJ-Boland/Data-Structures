@@ -1,0 +1,1 @@
+Heyo! Made a diagram and some pseudo code to demonstrate my goals for this assignment!
